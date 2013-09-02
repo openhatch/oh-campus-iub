@@ -28,12 +28,10 @@ div.section {
 	text-align: justify;
 }
 
-.section2 {
-	padding: 1em;
-	margin-bottom: 1.2em;
-}
 
 .section2 a {
+	padding: 1em;
+	margin-bottom: 1.2em;
 	color: white;
 }
 
